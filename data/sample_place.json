@@ -1,0 +1,17 @@
+{
+  "place_id": "p123",
+  "name": "Kopi Corner",
+  "category": "restaurant",
+  "tags": [
+    "kopi",
+    "kaya toast",
+    "hawker"
+  ],
+  "neighborhood": "Tiong Bahru, Singapore",
+  "owner_desc": "Casual breakfast spot with local coffee.",
+  "menu_or_services": [
+    "kopi o",
+    "half-boiled eggs",
+    "toast"
+  ]
+}

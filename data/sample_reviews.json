@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Great flat white, friendly barista. Will be back!",
+    "label": "allow"
+  },
+  {
+    "text": "Use code SAVE50 on whatsapp +65 9123 4567 for cheap loans!",
+    "label": "hard-block"
+  },
+  {
+    "text": "Scam!! worst ever!!",
+    "label": "soft-flag"
+  }
+]
