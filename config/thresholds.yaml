@@ -1,1 +1,5 @@
-
+# Policy thresholds (tune via evaluation + business risk)
+th_ads_block: 0.90
+th_irrelevant_flag: 0.80
+th_rant_flag: 0.85
+th_bienc_low: 0.30
